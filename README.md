@@ -113,9 +113,11 @@ Project| Description
 
 <div align="center"><img src="https://streak-stats.demolab.com/?user=subhambiswasara-07&theme=tokyonight&hide_border=true"/></div>---
 
+
 🏆 GitHub Trophies
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=subhambiswasara-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/></div>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=subhambiswasara-07&theme=tokyonight" /></div>
+
 
 🐍 My Contributions
 
